@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/y
-cm7-Tkm)
+This is a compiler built for my Complier's course at IIIT Hyderabad along with my teammate [Akshit Kumar](https://github.com/komikat). The project builds upon the principles discussed by Jeremy G. Siek in his book Essentials of Compilation. 
 
 ## Notes
 - Using "_main" and "_conclusion" doesn't work for MacOSX therefore the function using it: `correct-label` was removed from the prelude and conclusion functions.
